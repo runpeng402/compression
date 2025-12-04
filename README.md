@@ -1,2 +1,1 @@
-# compression
-my compression picture project
+compression-picture
